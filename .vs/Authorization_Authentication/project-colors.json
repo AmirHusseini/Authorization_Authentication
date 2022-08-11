@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a99ef19b-8e4e-445e-bdf7-29363d0a05eb": {
+      "ProjectGuid": "a99ef19b-8e4e-445e-bdf7-29363d0a05eb",
+      "DisplayName": "Authorization_Authentication",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
